@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: "WyrdGlamorgan.co.uk"
-url: "wyrdglamorgan.github.io"
+url: "wyrdglamorgan.co.uk"
 
 # THEME-SPECIFIC CONFIGURATION
 title: "Wyrd Glamorgan"                                   # site's title
