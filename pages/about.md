@@ -6,9 +6,7 @@ feature-img: "assets/img/pexels/travel.jpeg"
 tags: [Page]
 ---
 
-Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
-
-Head over to the [theme's documentation](https://github.com/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
-
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+Wyrd Glamorgan is a project based in the historic Welsh county of Glamorganshire. With a primary focus on photography as a medium, Wyrd Glamorgan will feature the rich, colourful and admittedly rather bizzare history of Glamorgan.
+Through explorations of local folklore, ghost stories, hauntology, urban wyrd and the otherwise uncanny, the beauty of this weird place will become apparent.
  
+Currrently, this section (and this website generally) is work-in-progress.
