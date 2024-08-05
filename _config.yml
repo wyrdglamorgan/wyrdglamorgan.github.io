@@ -4,7 +4,7 @@ url: "wyrdglamorgan.co.uk"
 
 # THEME-SPECIFIC CONFIGURATION
 title: "Wyrd Glamorgan"                                   # site's title
-description: "A website with blog posts and pages"      # used by search engines
+description: "A little bit of strange"      # used by search engines
 avatar:               # Empty for no avatar in navbar
 favicon: assets/wyrdglamorgan.ico                             # Icon displayed in the tab
 
@@ -42,8 +42,8 @@ paginate: 5
 paginate_path: "/blog/page:num"
 
 # PORTFOLIO
-collections:
-  portfolio:
+collections: false
+  portfolio: false
     output: false
     permalink: /:collection/:name
 
