@@ -19,11 +19,12 @@ After some thought and research, I've come to think that age is the contributing
 
 Blue Circle Industries' involvement in Rhoose began in 1983 after purchasing two sites from the Aberthaw and Rhoose Point Portland and Lime Company, who had been operating in the area since 1912. Only a short time later in 1987 that they had the Rhoose Works site demolished. It wouldn't be until 1995 that the land at Rhoose point would see a largescale clean-up effort by Blue Circle Industries, following a three-year consultation period with residents and in conjunction with the Welsh Development Agency. Transforming industrial land posed a challenge due to contamination, especially considering the Turner asbestos cement plant was still standing; all asbestos had to be safely removed from the area before domestic habitation could be deemed safe, as did the other contaminants from the sites industrial history. Five hundred homes were within these initial plans, as well as infrastructure projects including roads, rail, industrial sites, a golf course, a pub and other public services. Few such planned projects beyond the clearly profitable ever came to fruition.
 
-{% include aligner.html images="pexels/DSC_0415_02 (no vig).jpg" %}
-
 What did come to fruition however was this beautiful standing stone. A boastful thirteen foot tall (4 metres), and with knee-high, flat topped stones creating the surrounding stone circle. On the northern face of the standing stone is a large Celtic cross carving at the top, with an inscription denoting it as the contested southernmost point at the bottom. And on the southern face an inscription which reads:
 "RHOOSE POINT
 Land Reclamation & New Landscape by Blue Circle Industries PLC
 2000 AD"
 
 I attempted to mark the location on Google Maps, but someone else's marking had been approved before mine (including a review containing similar wording to what I had posted on Reddit a few days prior). I'm glad that the site finally has map recongition so that others may enjoy it as I have. They labelled the site as simply "Standing Stone", which I've attempted to rectify "Rhoose Point Standing Stone" (again awaiting approval). 
+
+
+![Travel]({{ "/assets/img/pexels/pexels/DSC_0415_02 (no vig).jpg" | relative_url}})
