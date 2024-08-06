@@ -4,7 +4,7 @@ title: Rhoose Point Standing Stone
 feature-img: "assets/img/thumbnails/feature-img/whatsup.jpg"
 thumbnail: "assets/img/thumbnails/feature-img/whatsup.jpg"
 tags: [Images, Blog, Glamorgan]
-categories: Update
+categories: Blog
 ---
 
 {% include aligner.html images="pexels/DSC_0406.jpg,pexels/DSC_0387.jpg" %}
