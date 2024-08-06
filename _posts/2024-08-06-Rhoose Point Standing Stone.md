@@ -5,6 +5,10 @@ feature-img: "assets/img/thumbnails/feature-img/whatsup.jpg"
 thumbnail: "assets/img/thumbnails/feature-img/whatsup.jpg"
 tags: [Images, Blog, Glamorgan]
 categories: Blog
+image:
+  path: assets/img/pexels/DSC_0406.jpg
+  height: 100
+  width: 100
 ---
 
 {% include aligner.html images="pexels/DSC_0406.jpg,pexels/DSC_0387.jpg" %}
