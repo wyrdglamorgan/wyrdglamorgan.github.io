@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rhoose Point Standing Stone
-feature-img: "assets/img/feature-img/whatsup.jpg"
+feature-img: "assets/img/thumbnails/feature-img/whatsup.jpg"
 thumbnail: "assets/img/thumbnails/feature-img/whatsup.jpg"
 tags: [Images, Blog, Glamorgan]
 categories: Update
