@@ -9,6 +9,8 @@ ogimage:
   path: assets/img/previews/preview1.jpg
   height: 300
   width: 300
+twitter:
+  image: assets/img/previews/preview1.jpg
 ---
 
 {% include aligner.html images="pexels/DSC_0406.jpg,pexels/DSC_0387.jpg" %}
