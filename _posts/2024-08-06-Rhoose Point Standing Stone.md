@@ -7,7 +7,9 @@ tags: [Images, Blog, Glamorgan]
 categories: Update
 ---
 
-{% include aligner.html images="pexels/DSC_0406.jpg,pexels/DSC_0415_02 (no vig).jpg" %}
+{% include aligner.html images="pexels/DSC_0406.jpg,pexels/DSC_0387.jpg" %}
+
+DSC_0387.jpg
 
 Whilst scouting locations for this project, I threw Google Maps' little yellow man down randomly upon the coast. There, I found a coastal trail captured with a 360 camera by a Google user named William Young, uploaded in November of 2021. I clicked my way down the path slightly, and that's when I saw it. Jutting up beneath my digital view was a colossal standing stone, centered in a minature stone circle. 
 
@@ -17,7 +19,7 @@ The standing stone in question is located at Rhoose Point, only a thousand feet 
 
 After some thought and research, I've come to think that age is the contributing factor. You may be inclined to believe that the Rhoose Point standing stone is very old, but that isn't the case. The stone was erected atop reclaimed land in 2000 by Blue Circle Industries, a cement company that would be bought by Lafarge (a company recently in the news for financing ISIS, serious) the very next year. The stone's relative infancy in contrast to its standing stone peers will have contributed to its internet obscurity. Local residents and visitors will undoubtably be familiar, but without the benefit of advanced age, the stone's mark upon the local conciousness is surely more dimunative than had the stone stood atop Rhoose Point for generations. Receiving no attention from tourism boards, inclusion in history books or protections as a heritage site, and certainly far fewer childhood memories to be recounted of jumping atop the stone circle, or using the standing stone as a hiding place, or as a shield from approaching taggers or rogue water-gun fire. 
 
-{% include aligner.html images="pexels/DSC_0395.jpg" %}
+{% include aligner.html images="pexels/DSC_0395.jpg, pexels/DSC_0415_02 (no vig).jpg" %}
 
 Blue Circle Industries' involvement in Rhoose began in 1983 after purchasing two sites from the Aberthaw and Rhoose Point Portland and Lime Company, who had been operating in the area since 1912. Only a short time later in 1987 that they had the Rhoose Works site demolished. It wouldn't be until 1995 that the land at Rhoose point would see a largescale clean-up effort by Blue Circle Industries, following a three-year consultation period with residents and in conjunction with the Welsh Development Agency. Transforming industrial land posed a challenge due to contamination, especially considering the Turner asbestos cement plant was still standing; all asbestos had to be safely removed from the area before domestic habitation could be deemed safe, as did the other contaminants from the sites industrial history. Five hundred homes were within these initial plans, as well as infrastructure projects including roads, rail, industrial sites, a golf course, a pub and other public services. Few such planned projects beyond the clearly profitable ever came to fruition.
 
