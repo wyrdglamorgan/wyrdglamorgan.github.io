@@ -5,7 +5,7 @@ url: "wyrdglamorgan.co.uk"
 # THEME-SPECIFIC CONFIGURATION
 title: "Wyrd Glamorgan"                                   # site's title
 description: "A little bit of strange"      # used by search engines
-avatar:               # Empty for no avatar in navbar
+avatar:  assets/img/WyrdGlamorgan1.jpg    # Empty for no avatar in navbar
 favicon: assets/wyrdglamorgan.ico                             # Icon displayed in the tab
 
 # Header and footer text
