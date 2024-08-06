@@ -5,11 +5,8 @@ feature-img: "assets/img/thumbnails/feature-img/whatsup.jpg"
 thumbnail: "assets/img/thumbnails/feature-img/whatsup.jpg"
 tags: [Images, Blog, Glamorgan]
 categories: Blog
-ogimage:
-  path: assets/img/previews/preview1.jpg
-  height: 300
-  width: 300
-twitter:
+image: assets/img/previews/preview1.jpg
+twitter: 
   image: assets/img/previews/preview1.jpg
 ---
 
