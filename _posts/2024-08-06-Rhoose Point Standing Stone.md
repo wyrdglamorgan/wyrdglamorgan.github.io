@@ -23,8 +23,7 @@ Blue Circle Industries' involvement in Rhoose began in 1983 after purchasing two
 
 What did come to fruition however was this beautiful standing stone. A boastful thirteen foot tall (4 metres), and with knee-high, flat topped stones creating the surrounding stone circle. On the northern face of the standing stone is a large Celtic cross carving at the top, with an inscription denoting it as the contested southernmost point at the bottom. And on the southern face an inscription which reads:
 
-```
-RHOOSE POINT
+```RHOOSE POINT
 
 Land Reclamation & New Landscape by Blue Circle Industries PLC
 
