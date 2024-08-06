@@ -7,8 +7,8 @@ tags: [Images, Blog, Glamorgan]
 categories: Blog
 image:
   path: assets/img/previews/preview1.jpg
-  height: 100
-  width: 100
+  height: 300
+  width: 300
 ---
 
 {% include aligner.html images="pexels/DSC_0406.jpg,pexels/DSC_0387.jpg" %}
