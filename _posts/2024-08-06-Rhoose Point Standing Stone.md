@@ -23,9 +23,11 @@ Blue Circle Industries' involvement in Rhoose began in 1983 after purchasing two
 
 What did come to fruition however was this beautiful standing stone. A boastful thirteen foot tall (4 metres), and with knee-high, flat topped stones creating the surrounding stone circle. On the northern face of the standing stone is a large Celtic cross carving at the top, with an inscription denoting it as the contested southernmost point at the bottom. And on the southern face an inscription which reads:
 
-```RHOOSE POINT
-Land Reclamation & New Landscape by Blue Circle Industries PLC
-2000 AD```
+```RHOOSE POINT```
+
+```Land Reclamation & New Landscape by Blue Circle Industries PLC```
+
+```2000 AD```
 
 
 I attempted to mark the location on Google Maps, but someone else's marking had been approved before mine (including a review containing similar wording to what I had posted on Reddit a few days prior). I'm glad that the site finally has map recongition so that others may enjoy it as I have. They labelled the site as simply "Standing Stone", which I've attempted to rectify "Rhoose Point Standing Stone" (again awaiting approval). 
