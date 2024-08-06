@@ -6,7 +6,7 @@ thumbnail: "assets/img/thumbnails/feature-img/whatsup.jpg"
 tags: [Images, Blog, Glamorgan]
 categories: Blog
 image:
-  path: assets/img/pexels/DSC_0406.jpg
+  path: assets/img/previews/preview1.jpg
   height: 100
   width: 100
 ---
