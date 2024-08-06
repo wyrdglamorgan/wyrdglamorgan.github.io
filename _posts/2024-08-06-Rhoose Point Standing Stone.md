@@ -1,3 +1,24 @@
+<!-- HTML Meta Tags -->
+<title>Rhoose Point Standing Stone</title>
+<meta name="description" content="A little bit of strange">
+
+<!-- Facebook Meta Tags -->
+<meta property="og:url" content="https://wyrdglamorgan.co.uk/blog/2024/08/06/Rhoose-Point-Standing-Stone.html">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Rhoose Point Standing Stone">
+<meta property="og:description" content="A little bit of strange">
+<meta property="og:image" content="https://opengraph.b-cdn.net/production/images/46100f04-422f-4491-a23b-98e133cd3bc3.jpg?token=N-XJdGHLFl21RALuaOELdtqa4bXlTcO61FZJjuoy0Fs&height=1792&width=1200&expires=33258966752">
+
+<!-- Twitter Meta Tags -->
+<meta name="twitter:card" content="summary_large_image">
+<meta property="twitter:domain" content="wyrdglamorgan.co.uk">
+<meta property="twitter:url" content="https://wyrdglamorgan.co.uk/blog/2024/08/06/Rhoose-Point-Standing-Stone.html">
+<meta name="twitter:title" content="Rhoose Point Standing Stone">
+<meta name="twitter:description" content="A little bit of strange">
+<meta name="twitter:image" content="https://opengraph.b-cdn.net/production/images/46100f04-422f-4491-a23b-98e133cd3bc3.jpg?token=N-XJdGHLFl21RALuaOELdtqa4bXlTcO61FZJjuoy0Fs&height=1792&width=1200&expires=33258966752">
+
+<!-- Meta Tags Generated via https://www.opengraph.xyz -->
+
 ---
 layout: post
 title: Rhoose Point Standing Stone
