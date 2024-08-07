@@ -8,6 +8,9 @@ categories: Blog
 image: "assets/img/previews/preview1.jpg"
 ogimage: "assets/img/previews/preview1.jpg"
 twitter: "assets/img/previews/preview1.jpg"
+twitter:image: "assets/img/previews/preview1.jpg"
+image: assets/img/previews/preview1.jpg
+ogimage: assets/img/previews/preview1.jpg
 ---
 
 {% include aligner.html images="pexels/DSC_0406.jpg,pexels/DSC_0387.jpg" %}
