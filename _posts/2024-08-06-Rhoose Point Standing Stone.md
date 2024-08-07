@@ -1,16 +1,11 @@
 ---
 layout: post
 title: Rhoose Point Standing Stone
-feature-img: "assets/img/thumbnails/feature-img/whatsup.jpg"
-thumbnail: "assets/img/thumbnails/feature-img/whatsup.jpg"
+feature-img: "assets/img/feature-img/Feature1.jpeg"
+thumbnail: "assets/img/thumbnails/feature-img/Thumbnail1.jpeg"
 tags: [Images, Blog, Glamorgan]
 categories: Blog
-image: "assets/img/previews/preview1.jpg"
-ogimage: "assets/img/previews/preview1.jpg"
-twitter: "assets/img/previews/preview1.jpg"
-twitter:image: "assets/img/previews/preview1.jpg"
-image: assets/img/previews/preview1.jpg
-ogimage: assets/img/previews/preview1.jpg
+image: "assets/img/thumbnails/feature-img/Thumbnail1.jpeg"
 ---
 
 {% include aligner.html images="pexels/DSC_0406.jpg,pexels/DSC_0387.jpg" %}
